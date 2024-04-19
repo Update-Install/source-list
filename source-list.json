@@ -1,0 +1,14 @@
+[
+  {
+    "name": "discord",
+    "url": "https://discord.com/api/download?platform=linux&format=deb"
+  },
+  {
+    "name": "chrome",
+    "url": "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
+  },
+  {
+    "name": "nomachine",
+    "url": "https://download.nomachine.com/download/8.11/Linux/nomachine_8.11.3_4_i386.deb"
+  }
+]
