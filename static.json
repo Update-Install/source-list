@@ -1,0 +1,10 @@
+[
+  {
+    "name": "nomachine",
+    "url": "https://download.nomachine.com/download/8.11/Linux/nomachine_8.11.3_4_i386.deb"
+  },
+  {
+    "name": "mongodb-compass",
+    "url": "https://downloads.mongodb.com/compass/mongodb-compass_1.42.5_amd64.deb"
+  }
+]
